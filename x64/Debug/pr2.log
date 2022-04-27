@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Active Zone\Programming\VisualSTDio\12\pr2\Source.c(15,12): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Active Zone\Programming\VisualSTDio\12\pr2\Source.c(92,11): warning C4098: 'printMe': 'void' function returning a value
+C:\Active Zone\Programming\VisualSTDio\12\pr2\Source.c(118,13): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  pr2.vcxproj -> C:\Active Zone\Programming\VisualSTDio\12\pr2\x64\Debug\pr2.exe
